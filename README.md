@@ -3,10 +3,10 @@ A Python Discord bot that generates stylized quote images.
 
 
 # Files
-quotes.py — Main bot file (all bot logic)
-requirements.txt — Python dependencies
-.env — enter your bot token here
-quote_bot.db — SQLite database (auto-created at runtime); stores guild settings and active preview sessions
+quotes.py — Main bot file (all bot logic)\n
+requirements.txt — Python dependencies\n
+.env — enter your bot token here\n
+quote_bot.db — SQLite database (auto-created at runtime); stores guild settings and active preview sessions\n
 fonts/ — Auto-downloaded on first startup (Lato, Playfair Display, etc.)
 
 
